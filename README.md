@@ -1,3 +1,14 @@
+Learn More about This Work: While much of the study remains in development and not yet ready for public release, you can learn more about my work and gain insight into the project's foundations by 
+reviewing the proposal paper I wrote for it: [Barnes Hut Approximation Algorithm.pdf](https://github.com/user-attachments/files/21508746/Barnes.Hut.Approximation.Algorithm.pdf)
+
+
+
+
+
+
+
+
+
 NOTE: The documentation present in the files of this repo has been severely reduced to increase readability while I use it. Though very thorough, it is also very information dense, and makes for a cluttered work environment and will remain absent until I get around to collecting all the individual pieces of documentation spread throughout the files and implement a sort of footnote system to link code sections to the extensive documentation while minimally decreasing readability. 
 
 
