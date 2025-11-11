@@ -9,6 +9,29 @@ reviewing the proposal paper I wrote for it: [Barnes Hut Approximation Algorithm
 
 
 
+
+
+<img width="1263" height="965" alt="HHHHH" src="https://github.com/user-attachments/assets/1af7407e-ac5c-4ec4-8575-d0449adfdfe2" />
+
+
+
+
+<img width="598" height="454" alt="octree_bounds_visual" src="https://github.com/user-attachments/assets/99e041c2-55dd-496a-a109-952c928f670c" />
+
+
+
+
+<img width="1508" height="1023" alt="Screenshot 2024-02-21 at 2 56 35 AM" src="https://github.com/user-attachments/assets/50cb7516-21c7-417e-b031-0cd3ed96b3aa" />
+
+
+
+
+
+
+
+
+
+
 NOTE: The documentation present in the files of this repo has been severely reduced to increase readability while I use it. Though very thorough, it is also very information dense, and makes for a cluttered work environment and will remain absent until I get around to collecting all the individual pieces of documentation spread throughout the files and implement a sort of footnote system to link code sections to the extensive documentation while minimally decreasing readability. 
 
 
